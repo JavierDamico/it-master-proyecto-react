@@ -6,7 +6,7 @@ import reportWebVitals from './reportWebVitals';
 
 ReactDOM.render(
   <React.StrictMode>
-    <App />
+    <App name="Curso de fullstack" instituto="IT Master" />
   </React.StrictMode>,
   document.getElementById('root')
 );
